@@ -1,6 +1,6 @@
 # Set up regular Puppet runs
 file { '/usr/local/bin/run-puppet':
-  source => '/home/billy/Documents/puppet/files/run-puppet.sh',
+  source => '/home/billy/Documents/puppetAgent/puppetTutorial/files/run-puppet.sh',
   mode   => '0755',
 }
 
