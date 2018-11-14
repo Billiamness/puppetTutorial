@@ -1,4 +1,4 @@
 file { '/tmp/hello.txt':
   ensure  => file,
-  content => "hello, bitches maow\n",
+  content => "hello, jon maow\n",
 }
